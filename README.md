@@ -1,1 +1,0 @@
-https://EduardZiganshin.github.io/rsschool-cv/cv
