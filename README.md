@@ -1,1 +1,1 @@
-# rsschool-cv
+https://EduardZiganshin.github.io/rsschool-cv/cv
