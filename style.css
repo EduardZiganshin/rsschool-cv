@@ -1,0 +1,27 @@
+body {
+  margin: 0 auto;
+  padding: 30px 30px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+  margin: 0 auto;
+}
+.header_img {
+  width: 200px;
+  height: 200px;
+}
+.header_contacts {
+  font-size: 16px;
+  font-weight: bold;
+}
+h1 {
+  font-size: 32px;
+}
+h2 {
+  font-size:20px;
+}
+ul {
+  font-style: italic;
+  line-height: 1.5;
+}
